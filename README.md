@@ -21,9 +21,7 @@ Remotion is a POC that allow to fix frames of motion capture animation based on 
 
 ### Demo
 
-[![Video: Motion capture analysis and animation rebuild using LSTM RNN](https://img.youtube.com/vi/ifLWbranI4I/0.jpg)](https://www.youtube.com/watch?v=ifLWbranI4I)
-
-Video: Motion capture analysis and animation rebuild using LSTM RNN
+Video: [Motion capture analysis and animation rebuild using LSTM RNN - Youtube](https://www.youtube.com/watch?v=ifLWbranI4I)
 
 
 ### Requirements
